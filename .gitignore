@@ -6,5 +6,7 @@ model_answers/*
 README_rendering_html_slides.txt
 draft_notebooks/*
 model_answers/
-
-
+temp/
+temp/*
+in-class_solutions/
+in-class_solutions/*
